@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, i'm Nima!
+Pronouns: he/him
 
-<!--
-**nimaskarimi/nimaskarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science student passionate about web development, AI, and cybersecurity.
+💻 I’m most comfortable with C++, Python and C.
+🚀 I’m currently working on building a portfolio website entirely from scratch with code!
+🌱 Always eager to learn and improve my skills across different areas of tech!
+🤝 I’m looking for internships and open to collaborating on interesting projects!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+📧 Email: 23nkarimi@gmail.com
+🔗 LinkedIn: nimaskarimi
